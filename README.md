@@ -15,7 +15,7 @@ BASE_URL=https://private-1f498c-cleanarch.apiary-mock.com
 
 #### Requirements
 
-  - Flutter version: *v1.12.13+hotfix.5*
+  - Flutter version: *v2.2.3*
   - Don't forget to run `flutter pub get`
 
 ### Convetions and MUST DOs
